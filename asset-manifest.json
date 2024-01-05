@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/klaudiak98/cars-list/static/css/main.0735b1f8.css",
+    "main.js": "/klaudiak98/cars-list/static/js/main.b6578ecd.js",
+    "index.html": "/klaudiak98/cars-list/index.html",
+    "main.0735b1f8.css.map": "/klaudiak98/cars-list/static/css/main.0735b1f8.css.map",
+    "main.b6578ecd.js.map": "/klaudiak98/cars-list/static/js/main.b6578ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0735b1f8.css",
+    "static/js/main.b6578ecd.js"
+  ]
+}
